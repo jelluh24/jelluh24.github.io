@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "Test post"
-date:   2020-06-01 12:40:44 +0200
+title:  "First post"
+date:   2020-06-02 11:15:30 +0200
 categories: jekyll update
-tags: test post
-description: "this is a test post"
+tags: Hello world
+description: "placeholder"
 ---
 
-This is a longer text about how this is a test post. 
+This is a placeholder for an actual writeup. I didn't want the page to be empty :)

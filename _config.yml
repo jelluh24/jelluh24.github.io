@@ -22,13 +22,14 @@ url: "https://jelluh24.github.io/" # the base hostname & protocol for your site,
 twitter_username: jelluh24 
 github_username:  jelluh24
 linkedin_username: jelle-van-den-berg-57606915
+tryhackme_username: jelluh24
 
 # Build settings
 markdown: kramdown
 theme: jekyll-theme-cayman
 plugins:
   - jekyll-feed
-repository: sergodeeva/sergodeeva.github.io
+repository: jelluh24/jelluh24.github.io
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
